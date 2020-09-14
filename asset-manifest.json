@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nerdy-soft/static/css/main.fae20cfd.chunk.css",
+    "main.js": "/nerdy-soft/static/js/main.5323667c.chunk.js",
+    "main.js.map": "/nerdy-soft/static/js/main.5323667c.chunk.js.map",
+    "runtime-main.js": "/nerdy-soft/static/js/runtime-main.d24d2baf.js",
+    "runtime-main.js.map": "/nerdy-soft/static/js/runtime-main.d24d2baf.js.map",
+    "static/js/2.e3e276c8.chunk.js": "/nerdy-soft/static/js/2.e3e276c8.chunk.js",
+    "static/js/2.e3e276c8.chunk.js.map": "/nerdy-soft/static/js/2.e3e276c8.chunk.js.map",
+    "index.html": "/nerdy-soft/index.html",
+    "precache-manifest.45d0f3904b863d5d7236d6eb072b589b.js": "/nerdy-soft/precache-manifest.45d0f3904b863d5d7236d6eb072b589b.js",
+    "service-worker.js": "/nerdy-soft/service-worker.js",
+    "static/css/main.fae20cfd.chunk.css.map": "/nerdy-soft/static/css/main.fae20cfd.chunk.css.map",
+    "static/js/2.e3e276c8.chunk.js.LICENSE.txt": "/nerdy-soft/static/js/2.e3e276c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d24d2baf.js",
+    "static/js/2.e3e276c8.chunk.js",
+    "static/css/main.fae20cfd.chunk.css",
+    "static/js/main.5323667c.chunk.js"
+  ]
+}
